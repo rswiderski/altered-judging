@@ -5,7 +5,7 @@ Je n'aborde majoritairement que les éléments pouvant figurer dans un rapport d
 ## Dimanche 06
 
 ### Accueil
-Comme l'a indiqué Wadie, il y avait pas mal de débutant présent, je trouve dommage de n'avoir pas eut le temps de se présenter un minimum face à face, il y a des arbitres que je n'ai même pas pus ne serais-ce qu'apercevoir.  
+Comme l'a indiqué Wadie, notre HJ, il y avait pas mal de débutant présent, je trouve dommage de n'avoir pas eut le temps de se présenter un minimum face à face, il y a des arbitres que je n'ai même pas pus ne serais-ce qu'apercevoir.  
 Bien que nous ayons fait le point une semaine avant et un peu plus tard avec nos Team Leader, un petit mot de l'organisation aurait pus faire un peu plaisir, d'autant que tout le monde n'avait pas forcément pus être présent et seul les Head Judge et les Game Designer ont brievement allumé leur caméra.  
 Le briefing d'il y a 1 semaine et demi commençais à être loin et rappeler le ou les éléments clé n'aurais pas fait de mal, pour exemple, j'ai remarqué que quelques collègue arbitre ne savaient pas où était la Judge Room alors que nous étions déjà à la Ronde 4.  
 Quelques petits couacs concernant l'agencement de la salle, les joueurs se groupant à la sortie des escalators, les escaliers et l'ascenseur. La table des Questions/Réponses étant au même endroit, il est possible que ça ais participer à créer un engorgement.  
@@ -31,6 +31,7 @@ Vus ma corpulence (et donc le possible risque de géner les joueurs en me dépla
 ### Début des rondes
 > [!CAUTION]
 > Devant la masse de personne, la circulation des joueurs dans notre zone s'est révelée problématique, ne pas avoir de marge sur les extérieurs de la zone de jeu à concentrer tout l'aflux de personne au centre créant une zone relativement dangereuse.
+> A titre personnel, même si ce n'est pas de notre ressort, j'ai eut quelques crainte s'il avait fallus évacuer la salle.
 
 > [!NOTE]
 > Pour le compte, même constat, que ce soit côté TO/Judge/Staff, aucun moyen de remédier à la chose, nous restons tributaire de l'architecture du bâtiment.
@@ -50,8 +51,47 @@ C'est lors de la première ronde que plusieurs constatations ont émergées.
 - Les joueurs sont relativement bruyant, générant un effet de bruit ambiant passant par dessus une bonne partie des annonces micro.
 
 L'équipe C a été pas mal solicité par les joueurs afin qu'ils puissent remplir leurs feuille de score ou pour trouver les places/pairings quand les joueurs n'avait pas de téléphone portable.  
+Le GoogleSheet a pas mal aider à l'organisation, cependant en fonction des téléphones/personnes, l'information n'était pas simple à regarder. Certains joueurs ont eut du mal à parcourir le documents.  
 
 > [!TIP]
-> - Indiquer aux joueurs que le stylo est fortement recommandé dans les affaires necessaire pour jouer.
-> - Aucun piste concernant les annonces. Même en cherchant, je ne vois pas comment palier à la chose.
-> - Le GoogleSheet a pas mal aider à l'organisation, en fonction des téléphones/personnes, l'information n'était pas simple à regarder.
+> - Indiquer aux joueurs qu'il est fortement recommandé d'avoir un stylo dans leurs affaires de jeu.
+> - Aucune piste concernant les annonces. Même en cherchant, je ne vois pas comment palier à la chose.
+> - L'utilisation d'un outils permettant la consultation/saisie/validation des rondes serait un plus permettant. J'imagine que ça faciliterai le travail des score keeper.
+
+> [!NOTE]
+> - Concernant un éventuel logiciel, je dois néamoins rester conscient qu'avec une tel volumétrie de personnes, n'importe quel logiciel peut ne pas convenir, il faut que je vois avec Aurélie si PurpleFox s'intègre bien à se genre d'usage.
+> - Voir avec Kévin son retour concernant le CDF de DC en Juillet, la volumétrie semble cadre correctement. Il me semble que les joueurs saisissaient leur score eux mêmes.
+
+### Rondes suivantes
+La distribution des _Paper Slips_ s'est fluidifié à l'usage, la numérotation des tables/plan de salle à continuer à me poser quelques soucis, risquant de donner le mauvais papier à la mauvaise table.  
+
+> [!NOTE]
+> - Ca faisait énormement de temps que je n'avais plus travaillé avec des _Paper Slips_, ça fait bizarre de se rendre compte qu'on est rouillé.
+> - Afin de ne pas prendre le risque de se tromper, appeler de temps en temps les deux joueurs par leur nom a permis de confirmer que je me trouvais au bon endroit.
+> - La technique a également permis de se rendre compte que qu'un joueur n'était pas à sa table.
+> - Ne peux pas être généralisé, mais reste bon moyen pour garder le compte.
+
+Les parties se finissant à différent moment, il a fallus à de nombreuse reprise invité les joueurs ayant finis leur partie à se décaller afin de ne pas perturber les joueurs encore en cours de jeu.
+
+> [!NOTE]
+> Le constat à l'air d'être surtout vrai sur les Floor C et D. Je n'ai pas eut suffisament le loisir de constater le phénomène sur les Floor A et B.
+
+Les distributions des lots a également posé problème, plusieurs consignes différentes ayant été donné, les joueurs ayant finis vite ou n'ayant pas d'adversaire n'étaient _de facto_ plus à leur table, entrainant un nombre important de question, tout du moins de mon côté.
+
+#### Période _off_ durant une ronde / Prise de repas
+La prise de période _off_ sur une ronde pose quelques soucis si on veut prendre le temps de mettre quelques chose par dessus le T-Shirt (ou retirer le T-Shirt), histoire de pas être déranger pendant.  
+Sur mes deux rotation _off_ d'une demi-heure, je me suis fait alpaguer par des joueurs qui avaient des questions à poser ou voulait simplement parler.  
+Si on souhaite assurer un minimum de _customer service_ et s'assurer que les joueurs passent un bon moment, difficile de les envoyer bouler, ceci ne laissant finalement qu'une poignée de minutes pour se poser.  
+
+> [!TIP]
+> A partir du moment où on rejoins le lieu du tournoi, il faut bien rester conscient qu'on représente le corps arbitrale en général et indirectement l'organisateur.
+> Que les ronde standard soit de 30min bouleverse pas mal les habitudes de tournoi.
+
+> [!NOTE]
+> Pour le cas présent, ce bouleversement étant partiellement compensé par le fait qu'il n'y avait pas trois jours de suite de service.
+
+J'ai été prendre ma pause repas de 30min sur la ronde 4 (ou 5, ma mémoire est flou et le détails importe peu), mais le problème s'est fait sentir une fois arrivé au Food Truck, le temps de les rejoindre, j'avais déjà pris quelques minutes, couplé à 20 minutes d'attente, il m'a été impossible de finir de manger mon repas.  
+Le fait qu'aucun endroit adapté à la prise de repas ne soit disponible, les Deck Check Lorcana ayant installé leur PC sur le peu de table disponibe dans la Judge Room, n'a pas non plus aider à la chose.  
+
+> [!NOTE]
+> Je penses que les implications de la durée d'une ronde nous as tous pris partiellement au dépourvus, mais l'importance de pouvoir reprendre un coup de boost pendant une pause suffisante se fera sentir par la suite.
