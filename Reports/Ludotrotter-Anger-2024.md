@@ -4,6 +4,9 @@ Je n'aborde majoritairement que les éléments pouvant figurer dans un rapport d
 
 ## Dimanche 06
 
+> [!CAUTION]
+> **Disclaimer**: Ceci correspond à un rapport de tournoi **personnel** n'engageant que ma réflexion de l'évènement, il représentera plus un rapport d'étonnement et mes notes personnelles qu'un déroulé complet et exhaustif des faits, pouvant entrainer une vision d'ensemble déformé du déroulé complet dudit évènement.
+
 ### Accueil
 Comme l'a indiqué Wadie, notre HJ, il y avait pas mal de débutant présent, je trouve dommage de n'avoir pas eut le temps de se présenter un minimum face à face, il y a des arbitres que je n'ai même pas pus ne serais-ce qu'apercevoir.  
 Bien que nous ayons fait le point une semaine avant et un peu plus tard avec nos Team Leader, un petit mot de l'organisation aurait pus faire un peu plaisir, d'autant que tout le monde n'avait pas forcément pus être présent et seul les Head Judge et les Game Designer ont brievement allumé leur caméra.  
@@ -78,6 +81,8 @@ Les parties se finissant à différent moment, il a fallus à de nombreuse repri
 
 Les distributions des lots a également posé problème, plusieurs consignes différentes ayant été donné, les joueurs ayant finis vite ou n'ayant pas d'adversaire n'étaient _de facto_ plus à leur table, entrainant un nombre important de question, tout du moins de mon côté.
 
+Au fur et à mesure que les joueurs _droppaient_, nous avons progressivement, avec l'accord des Team Leader concerné, remonté les tables afin d'apporter, si necessaire, du support aux deux autres floors.
+
 #### Période _off_ durant une ronde / Prise de repas
 La prise de période _off_ sur une ronde pose quelques soucis si on veut prendre le temps de mettre quelques chose par dessus le T-Shirt (ou retirer le T-Shirt), histoire de pas être déranger pendant.  
 Sur mes deux rotation _off_ d'une demi-heure, je me suis fait alpaguer par des joueurs qui avaient des questions à poser ou voulait simplement parler.  
@@ -91,7 +96,15 @@ Si on souhaite assurer un minimum de _customer service_ et s'assurer que les jou
 > Pour le cas présent, ce bouleversement étant partiellement compensé par le fait qu'il n'y avait pas trois jours de suite de service.
 
 J'ai été prendre ma pause repas de 30min sur la ronde 4 (ou 5, ma mémoire est flou et le détails importe peu), mais le problème s'est fait sentir une fois arrivé au Food Truck, le temps de les rejoindre, j'avais déjà pris quelques minutes, couplé à 20 minutes d'attente, il m'a été impossible de finir de manger mon repas.  
-Le fait qu'aucun endroit adapté à la prise de repas ne soit disponible, les Deck Check Lorcana ayant installé leur PC sur le peu de table disponibe dans la Judge Room, n'a pas non plus aider à la chose.  
+Le fait qu'aucun endroit adapté à la prise de repas ne soit disponible, les Deck Check Lorcana ayant installé leur PC sur le peu de table disponible dans la Judge Room, n'a pas non plus aider à la chose.  
 
 > [!NOTE]
-> Je penses que les implications de la durée d'une ronde nous as tous pris partiellement au dépourvus, mais l'importance de pouvoir reprendre un coup de boost pendant une pause suffisante se fera sentir par la suite.
+> - Je penses que les implications de la durée d'une ronde nous as tous pris partiellement au dépourvus, mais l'importance de pouvoir reprendre un coup de boost pendant une pause suffisante se fera sentir par la suite.
+
+> [!WARNING]
+> - La fatigue et la faim aidant, ma vigilance a probablement été altéré à quelques moment entrainant un temps de réaction clairement insuffisant quand un/des joueurs appelait.
+> - Prévoir dans les affaires de quoi reprendre un coup de boost "sucré", les en-cas mis à disposition étant majoritairement chocolaté, il ne constituait pas une bonne alternative pour un "_coup de pouce_" et on commencé à fondre sitôt récupérer.
+
+> [!TIP]
+> - Prévoir avec les zones de restauration un coupe-fils pour les membres de l'équipe serait un gros plus en terme d'organisation du temps et pour le confort des équipes.
+
