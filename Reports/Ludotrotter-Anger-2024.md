@@ -141,7 +141,7 @@ Je m'attendais à plus d'appel et suis un peu déçu aussi de ce côté, j'aurai
 > [!TIP]
 > **Axe d'amélioration**
 > - Voir avec TL
-> - _En cours de réflextion_ (WIP)
+> - _En cours de réflexion_ (WIP)
 
 > [!NOTE]
 > - Il y a probablement eut plus d'appel sur les Floor A et B, peut être se renseigner.
