@@ -138,6 +138,11 @@ Accepter de faire une activité de famille impliquant de marcher 8-9 heures la v
 Je ne suis pas satisfait de la prestation que j'ai délivrée sur cet évènement, la fatigue n'est pas une excuses pour les pertes d'attentions dont j'ai fait preuve sur le milieu/fin de journée.  
 Je m'attendais à plus d'appel et suis un peu déçu aussi de ce côté, j'aurais aimer pouvoir travailler un peu plus les appels et les fix à apporter, chose que je ne peux plus aussi facilement faire ailleurs, les opportunités d'arbitrage étant un peu saturée.
 
+> [!TIP]
+> **Axe d'amélioration**
+> - Voir avec TL
+> - _En cours de réflextion_ (WIP)
+
 > [!NOTE]
 > - Il y a probablement eut plus d'appel sur les Floor A et B, peut être se renseigner.
 > - Reprendre contact pour les ZAP
