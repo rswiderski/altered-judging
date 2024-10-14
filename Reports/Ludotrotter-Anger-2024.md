@@ -66,7 +66,10 @@ Le GoogleSheet a pas mal aider à l'organisation, cependant en fonction des tél
 > - Voir avec Kévin son retour concernant le CDF de DC en Juillet, la volumétrie semble cadre correctement. Il me semble que les joueurs saisissaient leur score eux mêmes.
 
 ### Rondes suivantes
-La distribution des _Paper Slips_ s'est fluidifié à l'usage, la numérotation des tables/plan de salle à continuer à me poser quelques soucis, risquant de donner le mauvais papier à la mauvaise table.  
+La distribution des _Paper Slips_ s'est fluidifié à l'usage, la numérotation des tables/plan de salle à continuer à me poser quelques soucis, risquant de donner le mauvais papier à la mauvaise table. 
+
+Quelques intervention lors de la fin de la ronde 2 concernant des gens qui sortaient un sandwich ou des boissons sur les table à côté de joueurs étant encore en partie.  
+Mention spécial pour le joueur dont la copine est venus lui déposer un McDo...  
 
 > [!NOTE]
 > - Ca faisait énormement de temps que je n'avais plus travaillé avec des _Paper Slips_, ça fait bizarre de se rendre compte qu'on est rouillé.
@@ -108,3 +111,36 @@ Le fait qu'aucun endroit adapté à la prise de repas ne soit disponible, les De
 > [!TIP]
 > - Prévoir avec les zones de restauration un coupe-fils pour les membres de l'équipe serait un gros plus en terme d'organisation du temps et pour le confort des équipes.
 
+### Dernière ronde et Fin d'évènement
+
+J'ai été surpris par l'appel demandant aux arbitre disponible de venir donner un coup de main à la mise en place de la zone pour les dotation du Top 256.  
+Malgré le fait qu'il nous restait encore 2-3 rangée de table à surveiller sur les 7 que nous avions initialement, je me suis retrouvé seul puis à deux avec un collègue qui semblait exténué. Pour ne pas prendre de risque, je l'ai envoyé se reposer et ais pris sur moi de surveiller la fin de ronde, et plus particulièrement les tables encore en jeu pendant le temps additionnel. Pas de problème à déplorer sur ces tables, une des partie ayant durée un peu le reste est resté relativement fluide.
+
+Vus l'heure avancé, j'ai été obligé de ne pas trop trainer pour rendre mon T-Shirt et le porte-badge afin de ne pas trop faire attendre mon co-voitureur ainsi que le deux joueurs qui l'accompagnaient..
+
+## Bilan Global
+
+Très cool pour un premier évènement, l'augmentation de joueur me semble avoir pris un peu trop de court, mais le ressentis des joueurs semble, après une semaine maintenant, globalement positive ce qui me parais être le premier facteur de réussite. 
+J'ai surpris par trois fois des discussions de joueurs des tables hautes se faisant entre eux des réflexions concernant des rulings qu'ils n'avaient pas trop compris ou des inconsistances dans les rulings, rien de très grâve, ceux-ci relativisant, je n'ai pas jugé bon de les déranger, et en l'occurence n'ayant que les echos de leur point de vue, il n'y avait pas matière à se renseigner.  
+
+Je trouve dommage de n'avoir pas pus/pris le temps de faire une discussion pour faire connaissance ni un dernier débrief après l'évènement, un petit regret d'avoir l'impression d'être partis comme un voleur et encore plus de n'avoir pas réussis à trouver un créneau pour faire à minima une petit photo de l'équipe au complet et/ou de l'équipe du Floor C.  
+
+A titre personnel, j'ai pris beaucoup de plaisir à l'expérience. En espérant pouvoir renouveller l'expérience très vite.
+
+> [!TIP]
+> - Lors de la réunion de l'équipe C, quelques points concernant les Policies ont été levés et on trouvé réponse auprès de Maverick, je n'ai pas vus l'information ruisselé vers les autres équipes, c'est un des points d'inconsistance que j'ai relevé lors des discussion des joueurs
+> - Avec le bruit ambiant et les "_bousculade_" des joueurs, il est très facile de passer à côté de la vibration de son téléphone en cas de notification Discord, le canal de communication lors de l'évènement ne semble pas aussi fiable qu'espérer.  
+> - Insister auprès des débutants pour qu'il prévoient à minima de quoi noter, des chaussures confortable et qu'il pensent bien à s'hydrater.
+
+## Bilan Personnel
+
+Accepter de faire une activité de famille impliquant de marcher 8-9 heures la veille d'un évènement de ce type n'était pas la meilleurs des idées.  
+Je ne suis pas satisfait de la prestation que j'ai délivrée sur cet évènement, la fatigue n'est pas une excuses pour les pertes d'attentions dont j'ai fait preuve sur le milieu/fin de journée.  
+Je m'attendais à plus d'appel et suis un peu déçu aussi de ce côté, j'aurais aimer pouvoir travailler un peu plus les appels et les fix à apporter, chose que je ne peux plus aussi facilement faire ailleurs, les opportunités d'arbitrage étant un peu saturée.
+
+> [!NOTE]
+> - Il y a probablement eut plus d'appel sur les Floor A et B, peut être se renseigner.
+> - Reprendre contact pour les ZAP
+
+> [!CAUTION]
+> Penser à prendre la journée du lendemain quand tu dois te rentre à 2h du mat et que tu es censé te lèver à 5h.
