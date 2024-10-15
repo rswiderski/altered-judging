@@ -2,6 +2,11 @@
 N'étant pas présent le samedi, j'estime n'avoir aucune légitimité d'en parler.  
 Je n'aborde majoritairement que les éléments pouvant figurer dans un rapport d'étonnement, ce qui pourrait paraître majoritairement négatif, **l'expérience au global a été très agréable et plutôt positive pour une première**.  
 
+![Picture1](https://lh3.googleusercontent.com/d/1PaJf_R2AgHt06OpHUbis_pguXhNTikok)
+![Picture2](https://lh3.googleusercontent.com/d/1PUrPNRc_o1nkB76-B5tHVZ6DMrS1-BoN)
+![Picture3](https://lh3.googleusercontent.com/d/1POVgbYhabmRIVb3emcPJKyC2G6WK2GjI)
+![Picture4](https://lh3.googleusercontent.com/d/1PAkLkMWxxfmCTikxTMoEuBms7f1en-eU)
+
 ## Dimanche 06
 
 > [!CAUTION]
